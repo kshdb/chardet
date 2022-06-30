@@ -6,6 +6,9 @@ type recognizer interface {
 
 type recognizerOutput Result
 
+/*
+
+ */
 type recognizerInput struct {
 	raw         []byte
 	input       []byte

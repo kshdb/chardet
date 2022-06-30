@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55604586-efff-4555-97bc-85d08bb56d72" name="变更" comment="自动推断">
-      <change beforePath="$PROJECT_DIR$/detector_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/detector_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recognizer.go" beforeDir="false" afterPath="$PROJECT_DIR$/recognizer.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
