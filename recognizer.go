@@ -17,6 +17,9 @@ type recognizerInput struct {
 	hasC1Bytes  bool
 }
 
+/*
+
+ */
 func newRecognizerInput(raw []byte, stripTag bool) *recognizerInput {
 	input, stripped := mayStripInput(raw, stripTag)
 	byteStats := computeByteStats(input)
