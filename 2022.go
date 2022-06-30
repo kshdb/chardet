@@ -4,6 +4,9 @@ import (
 	"bytes"
 )
 
+/*
+
+ */
 type recognizer2022 struct {
 	charset string
 	escapes [][]byte
