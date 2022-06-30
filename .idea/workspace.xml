@@ -4,37 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55604586-efff-4555-97bc-85d08bb56d72" name="变更" comment="初始化">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/chardet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AUTHORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detector.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detector_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi_byte.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recognizer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_byte.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/8859_1_da.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/8859_1_de.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/8859_1_en.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/8859_1_es.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/8859_1_fr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/8859_1_pt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/big5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/euc_jp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/euc_kr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/gb18030.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/shift_jis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/utf8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/utf8_bom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unicode.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utf8.go" afterDir="false" />
+    <list default="true" id="55604586-efff-4555-97bc-85d08bb56d72" name="变更" comment="自动推断">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +35,7 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,10 +51,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="自动推断" />
+    <option name="LAST_COMMIT_MESSAGE" value="自动推断" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
