@@ -13,6 +13,8 @@ func newRecognizer_utf8() *recognizerUtf8 {
 	return &recognizerUtf8{}
 }
 
+/*
+ */
 func (*recognizerUtf8) Match(input *recognizerInput) (output recognizerOutput) {
 	output = recognizerOutput{
 		Charset: "UTF-8",
