@@ -9,6 +9,9 @@ import (
 	"github.com/kshdb/chardet"
 )
 
+/*
+
+ */
 func TestDetector(t *testing.T) {
 	type file_charset_language struct {
 		File     string
