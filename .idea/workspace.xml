@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55604586-efff-4555-97bc-85d08bb56d72" name="变更" comment="自动推断">
-      <change beforePath="$PROJECT_DIR$/multi_byte.go" beforeDir="false" afterPath="$PROJECT_DIR$/multi_byte.go" afterDir="false" />
-    </list>
+    <list default="true" id="55604586-efff-4555-97bc-85d08bb56d72" name="变更" comment="自动推断" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +12,19 @@
   </component>
   <component name="GOROOT" url="file://C:/Program Files/Go" />
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
