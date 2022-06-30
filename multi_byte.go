@@ -5,6 +5,9 @@ import (
 	"math"
 )
 
+/*
+
+ */
 type recognizerMultiByte struct {
 	charset     string
 	language    string
